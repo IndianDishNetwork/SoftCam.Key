@@ -1,2 +1,2 @@
-# SoftCam.Key
-Latest Enigma2 Softcam.key
+# SoftCam_Emu
+NOTE: is file is only compatible with Enigma2 plateform.
